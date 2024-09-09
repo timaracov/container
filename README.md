@@ -1,3 +1,3 @@
 # container
 
-I'll explore container virualization here. For now this repor remains empty.
+I'll explore container virtualization by writing some code here. For now this repo remains empty.
